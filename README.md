@@ -25,7 +25,7 @@ Run the Python script containing the code.
 The script will load the dataset, preprocess the data, fit the Exponential Distribution, and display the median survival time, survival probability at a specific time point, and the Exponential Survival Curve plot.
 
 Dataset
-The dataset used in this project is available at the following URL: https://raw.githubusercontent.com/KenDaupsey/Semi-Parametric-Survival-Analysis-Cox-Proportional-Hazards-Model-for-Unemployment-Duration-Analysis/main/Survival%7EUnemployment%7EDuration.csv
+The dataset used in this project is available at the following URL: https://raw.githubusercontent.com/KenDaupsey/Parametric-Survival-Analysis-Exponential-Distribution-Procedure/main/Survival%7EUnemployment%7EDuration.csv 
 
 Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
